@@ -144,7 +144,12 @@ export function Sidebar() {
                             <DialogTitle>
                                 <VisuallyHidden>Menu</VisuallyHidden>
                             </DialogTitle>
-                            <nav className="grid gap-6 text-lg font-medium">
+
+
+                            <nav className="grid gap-6 mt-auto flex-col text-lg font-medium">
+
+
+
                                 <Link
                                     href="#"
                                     className="flex h-10 w-10 bg-primary rounded-full text-lg 
@@ -200,6 +205,20 @@ export function Sidebar() {
                                     Configurações
                                 </Link>
                             </nav>
+
+                            <nav className="flex  items-center mt-auto gap-4 px-2.5 text-muted-foreground hover:text-foreground">
+
+                                <Link
+                                    href="#"
+                                    className="flex items-center gap-4 px-2.5 text-muted-foreground hover:text-foreground"
+                                    prefetch={false}
+                                >
+                                    <LogOut className="h-5 w-5 transition-all" />
+                                    Saitr
+                                </Link>
+
+                            </nav>
+
                         </SheetContent>
                     </Sheet>
                     <h2>Menu</h2>
