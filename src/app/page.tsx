@@ -1,6 +1,6 @@
 import { ChartOverView } from "@/components/chart";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { DollarSign, Percent, Users, Users2 } from "lucide-react";
+import { DollarSign, Percent, Users2 } from "lucide-react";
 
 export default function Home() {
   return (
