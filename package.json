@@ -23,7 +23,8 @@
     "rechart": "^0.0.1",
     "recharts": "^2.13.3",
     "tailwind-merge": "^2.5.4",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "vercel": "^37.14.0"
   },
   "devDependencies": {
     "@types/node": "^20",
