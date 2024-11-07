@@ -1,6 +1,6 @@
 import { Package, PanelBottom, Home, ShoppingBag, Users, Settings2, LogOut } from "lucide-react";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
-import { VisuallyHidden } from "@radix-ui/react-Visually-Hidden"
+import { VisuallyHidden } from '@radix-ui/react-visually-hidden';
 import { DialogTitle, } from "@/components/ui/dialog"
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
