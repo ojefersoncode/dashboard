@@ -4,7 +4,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Preview
 
-😍 (https://ojefersoncode-dashboard.vercel.app/)
+😍 (https://ojefersoncode-dashboard-4icbudluh-devindependentes-projects.vercel.app/)
 
 First, run the development server:
 
